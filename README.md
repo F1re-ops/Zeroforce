@@ -75,8 +75,6 @@ Until then, this repo only hosts **compiled releases, changelogs, and update ann
 
 ---
 
-## License
-
 All rights reserved © 2025 F1re-ops.  
 Zeroforce binaries and documentation may not be redistributed, modified, or reverse-engineered without explicit permission.  
 This repository is for historical preservation, update tracking, and educational documentation only.
